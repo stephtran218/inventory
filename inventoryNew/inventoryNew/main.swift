@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  Inventory_Management
+//  inventoryNew
 //
-//  Created by StudentAM on 1/18/24.
+//  Created by StudentAM on 2/12/24.
 //
 
 import Foundation
